@@ -26,3 +26,16 @@
 
 - For Ubuntu 18.04+ use this to install masternode: <br>
 `./masternode-install-ubuntu-0.18.sh`
+
+Commands : 
+To check your node blockheight use  
+`odinycoin-cli getblockcount`
+
+To check your node status use 
+`odinycoin-cli getmasternodestatus`
+
+To stop your node use 
+`odinycoin-cli stop`
+
+To start your node use 
+`odinycoind`
